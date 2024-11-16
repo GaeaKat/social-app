@@ -9,6 +9,7 @@ module.exports = {
     'fi',
     'fr',
     'ga',
+    'gd',
     'hi',
     'hu',
     'id',
